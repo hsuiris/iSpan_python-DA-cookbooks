@@ -1,0 +1,6 @@
+pandas>=2.1,<2.3
+openpyxl>=3.1         # Excel I/O (M1)
+lxml>=5.0             # XML parsing (M1)
+pyyaml>=6.0           # YAML config (M4)
+python-dotenv>=1.0    # .env file support (M4)
+jupyterlab>=4.0       # 課堂環境

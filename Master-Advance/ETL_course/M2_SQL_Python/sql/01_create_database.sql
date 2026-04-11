@@ -1,0 +1,6 @@
+-- SQLite 是 file-based，不需要 CREATE DATABASE
+-- 資料庫檔案會在 Python 連線時自動建立：
+--   conn = sqlite3.connect("school.db")
+--
+-- 這個檔案保留只是為了讓你知道：
+-- 在 MySQL/PostgreSQL 時需要先建 database，在 SQLite 不用。
